@@ -31,12 +31,24 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
+[/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Auth/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aC9EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Search/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Shared/Error.cshtml]
