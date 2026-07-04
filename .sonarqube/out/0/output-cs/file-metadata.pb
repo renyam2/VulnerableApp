@@ -1,0 +1,18 @@
+ð
+ä/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/Microsoft.AspNetCore.App.SourceGenerators/Microsoft.AspNetCore.SourceGenerators.PublicProgramSourceGenerator/PublicTopLevelProgram.Generated.g.csutf-8€
+u/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/VulnerableApp.RazorAssemblyInfo.csutf-8{
+p/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/VulnerableApp.AssemblyInfo.csutf-8Ž
+‚/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.csutf-8}
+r/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/VulnerableApp.GlobalUsings.g.csutf-8T
+K/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Program.csutf-8X
+O/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Models/User.csutf-8b
+Y/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Models/ErrorViewModel.csutf-8s
+h/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Migrations/AppDbContextModelSnapshot.csutf-8
+t/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Migrations/20260602014629_InitialCreate.Designer.csutf-8t
+k/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Migrations/20260602014629_InitialCreate.csutf-8^
+U/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Data/AppDbContext.csutf-8i
+`/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Controllers/SearchController.csutf-8g
+^/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Controllers/HomeController.csutf-8j
+a/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Controllers/CommentController.csutf-8g
+^/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Controllers/AuthController.csutf-8f
+]/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Controllers/ApiController.csutf-8
