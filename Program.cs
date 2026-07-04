@@ -11,11 +11,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 Log.Logger = new LoggerConfiguration()
-    .MinimumLevel.Information()
-    .WriteTo.Console()
-    .WriteTo.File("Logs/log-.txt",
-        rollingInterval: RollingInterval.Day)
-    .WriteTo.Seq("http://localhost:5341")
+    .ReadFrom.Configuration(builder.Configuration)
+    .Enrich.WithMachineName()
     .CreateLogger();
 builder.Host.UseSerilog();
 
