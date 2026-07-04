@@ -1,3 +1,4 @@
+using Serilog;
 using Microsoft.EntityFrameworkCore;
 using VulnerableApp.Data;
 
@@ -9,11 +10,11 @@ builder.Services.AddSession();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-long.Logger = new LoggerConfiguration()
-    .MinimunLevel.Information()
+Log.Logger = new LoggerConfiguration()
+    .MinimumLevel.Information()
     .WriteTo.Console()
     .WriteTo.File("Logs/log-.txt",
-        rollingINterval: RollingInterval.Day)
+        rollingInterval: RollingInterval.Day)
     .WriteTo.Seq("http://localhost:5341")
     .CreateLogger();
 builder.Host.UseSerilog();
