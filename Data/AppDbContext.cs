@@ -8,15 +8,10 @@ namespace VulnerableApp.Data
         public DbSet<User> Users { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Nota: Se usa fecha estática en lugar de DateTime.Now
-            // porque EF Core no permite valores dinámicos en HasData
             modelBuilder.Entity<User>().HasData(
-                new User { Id = 1, Username = "admin", Password = "admin", Email =
-                    "admin@test.com", Balance = 1000m, CreatedAt = new DateTime(2024, 1, 1) },
-                new User { Id = 2, Username = "user1", Password = "123456", Email =
-                    "user@test.com", Balance = 500m, CreatedAt = new DateTime(2024, 1, 1) },
-                new User { Id = 3, Username = "user2", Password = "password", Email =
-                    "user2@test.com", Balance = 750m, CreatedAt = new DateTime(2024, 1, 1) }
+                new User { Id = 1, Username = "admin", PasswordHash = BCrypt.Net.BCrypt.HashPassword("admin"), Email = "admin@test.com", Balance = 1000m, CreatedAt = new DateTime(2024, 1, 1) },
+                new User { Id = 2, Username = "user1", PasswordHash = BCrypt.Net.BCrypt.HashPassword("123456"), Email = "user@test.com", Balance = 500m, CreatedAt = new DateTime(2024, 1, 1) },
+                new User { Id = 3, Username = "user2", PasswordHash = BCrypt.Net.BCrypt.HashPassword("password"), Email = "user2@test.com", Balance = 750m, CreatedAt = new DateTime(2024, 1, 1) }
             );
         }
     }

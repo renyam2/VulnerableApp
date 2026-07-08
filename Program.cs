@@ -1,32 +1,51 @@
+using Serilog;
 using Microsoft.EntityFrameworkCore;
 using VulnerableApp.Data;
+using VulnerableApp.Middleware;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+Log.Logger = new LoggerConfiguration()
+    .ReadFrom.Configuration(builder.Configuration)
+    .Enrich.WithMachineName()
+    .CreateLogger();
+builder.Host.UseSerilog();
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+
+// Crear BD al iniciar
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    db.Database.EnsureCreated();
+}
+
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
+// DESPUÉS (correcto)
+app.UseMiddleware<CorrelationIdMiddleware>();
+app.UseMiddleware<ExceptionMiddleware>();
+app.UseMiddleware<RequestLoggingMiddleware>();
+
+
 app.UseHttpsRedirection();
 app.UseRouting();
-
+app.UseSession();
 app.UseAuthorization();
-
 app.MapStaticAssets();
 app.MapControllerRoute(
-name: "default",
-pattern: "{controller=Home}/{action=Index}/{id?}");
-
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
-
-

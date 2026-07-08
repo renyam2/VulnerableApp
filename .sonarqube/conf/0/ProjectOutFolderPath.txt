@@ -1,0 +1,1 @@
+/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/.sonarqube/out/0

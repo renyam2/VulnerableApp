@@ -1,0 +1,96 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.2.1"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1781320692000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "Interlockerup"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/.sonarqube/out/.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp"
+    },
+    {
+      "key": "sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "430F579E-A6AC-4907-A5DA-F51A3C901CE0"
+    },
+    {
+      "key": "430F579E-A6AC-4907-A5DA-F51A3C901CE0.sonar.projectKey",
+      "value": "Interlockerup:430F579E-A6AC-4907-A5DA-F51A3C901CE0"
+    },
+    {
+      "key": "430F579E-A6AC-4907-A5DA-F51A3C901CE0.sonar.projectName",
+      "value": "VulnerableApp"
+    },
+    {
+      "key": "430F579E-A6AC-4907-A5DA-F51A3C901CE0.sonar.projectBaseDir",
+      "value": "/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp"
+    },
+    {
+      "key": "430F579E-A6AC-4907-A5DA-F51A3C901CE0.sonar.working.directory",
+      "value": "/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/.sonarqube/out/.sonar/mod0"
+    },
+    {
+      "key": "430F579E-A6AC-4907-A5DA-F51A3C901CE0.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "430F579E-A6AC-4907-A5DA-F51A3C901CE0.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "430F579E-A6AC-4907-A5DA-F51A3C901CE0.sonar.sources",
+      "value": "/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Controllers/ApiController.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Controllers/AuthController.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Controllers/CommentController.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Controllers/HomeController.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Controllers/SearchController.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Data/AppDbContext.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Migrations/20260602014629_InitialCreate.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Migrations/20260602014629_InitialCreate.Designer.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Migrations/AppDbContextModelSnapshot.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Models/ErrorViewModel.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Models/User.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Program.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/VulnerableApp.GlobalUsings.g.cs,\"/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs\",/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/VulnerableApp.AssemblyInfo.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/VulnerableApp.RazorAssemblyInfo.cs,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/css/site.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/favicon.ico,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/js/site.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/bootstrap/LICENSE,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery-validation/dist/additional-methods.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery-validation/LICENSE.md,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery/dist/jquery.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery/dist/jquery.min.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery/dist/jquery.min.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery/dist/jquery.slim.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery/dist/jquery.slim.min.js,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery/dist/jquery.slim.min.map,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/wwwroot/lib/jquery/LICENSE.txt,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/appsettings.Development.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/appsettings.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Auth/Dashboard.cshtml,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Auth/Login.cshtml,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Comment/Index.cshtml,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Home/Index.cshtml,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Home/Privacy.cshtml,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Search/Index.cshtml,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Shared/Error.cshtml,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Shared/_Layout.cshtml,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Shared/_ValidationScriptsPartial.cshtml,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/_ViewImports.cshtml,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/_ViewStart.cshtml,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Views/Shared/_Layout.cshtml.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/VulnerableDb.db,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Properties/launchSettings.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/project.assets.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/VulnerableApp.csproj.nuget.dgspec.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/rjimswa.dswa.cache.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/VulnerableApp.sourcelink.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/rjsmrazor.dswa.cache.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/staticwebassets.build.endpoints.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/staticwebassets.build.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/rpswa.dswa.cache.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/rbcswa.dswa.cache.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/staticwebassets.development.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/bin/Debug/net10.0/VulnerableApp.deps.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/bin/Debug/net10.0/VulnerableApp.runtimeconfig.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/bin/Debug/net10.0/VulnerableApp.staticwebassets.runtime.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/bin/Debug/net10.0/appsettings.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/bin/Debug/net10.0/appsettings.Development.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/bin/Debug/net10.0/VulnerableApp.staticwebassets.endpoints.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/bin/Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/bin/Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/bin/Debug/net10.0/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/scopedcss/projectbundle/VulnerableApp.bundle.scp.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/scopedcss/bundle/VulnerableApp.styles.css,/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css"
+    },
+    {
+      "key": "430F579E-A6AC-4907-A5DA-F51A3C901CE0.sonar.cs.analyzer.projectOutPaths",
+      "value": "/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/.sonarqube/out/0"
+    },
+    {
+      "key": "430F579E-A6AC-4907-A5DA-F51A3C901CE0.sonar.cs.roslyn.reportFilePaths",
+      "value": "/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/.sonarqube/out/0/Issues.json"
+    },
+    {
+      "key": "430F579E-A6AC-4907-A5DA-F51A3C901CE0.sonar.cs.scanner.telemetry",
+      "value": "/home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/.sonarqube/out/0/Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}
