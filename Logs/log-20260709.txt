@@ -1,0 +1,315 @@
+2026-07-09 17:30:14.424 -06:00 [WRN] [80a7fa39-08f8-487d-9525-0ed7d479c74c] Failed to determine the https port for redirect.
+2026-07-09 17:30:14.766 -06:00 [INF] [80a7fa39-08f8-487d-9525-0ed7d479c74c] Inicio Home.Index. Usuario:Anónimo IP:::1
+2026-07-09 17:30:14.771 -06:00 [INF] [80a7fa39-08f8-487d-9525-0ed7d479c74c] Fin Home.Index. Duración:20ms
+2026-07-09 17:30:15.034 -06:00 [INF] [80a7fa39-08f8-487d-9525-0ed7d479c74c] HTTP GET / respondió 200 en 613ms IP:::1
+2026-07-09 17:30:36.566 -06:00 [INF] [1369a5a1-6eea-4230-b0c8-69a5cf7556fc] Inicio Home.Index. Usuario:Anónimo IP:127.0.0.1
+2026-07-09 17:30:36.567 -06:00 [INF] [1369a5a1-6eea-4230-b0c8-69a5cf7556fc] Fin Home.Index. Duración:4ms
+2026-07-09 17:30:36.577 -06:00 [INF] [1369a5a1-6eea-4230-b0c8-69a5cf7556fc] HTTP GET / respondió 200 en 17ms IP:127.0.0.1
+2026-07-09 17:30:36.840 -06:00 [INF] [38195fa8-9ac8-45a8-a17d-763211ba840b] HTTP GET /VulnerableApp.styles.css respondió 200 en 54ms IP:127.0.0.1
+2026-07-09 17:30:36.842 -06:00 [INF] [2039cff2-ffb9-493c-ba7d-27d7a09e0555] HTTP GET /js/site.js respondió 200 en 53ms IP:127.0.0.1
+2026-07-09 17:30:36.844 -06:00 [INF] [e6d11a40-8a0c-433e-9042-f82d6b577dc9] HTTP GET /css/site.css respondió 200 en 58ms IP:127.0.0.1
+2026-07-09 17:30:36.898 -06:00 [INF] [f36bee24-aff7-4768-a786-3d7d9a8d1100] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 110ms IP:127.0.0.1
+2026-07-09 17:30:36.899 -06:00 [INF] [75b34c7b-4f6a-4512-974b-871f5c2439b3] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 110ms IP:127.0.0.1
+2026-07-09 17:30:36.898 -06:00 [INF] [7166ada6-bc7f-43d6-a66d-611f2198a095] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 112ms IP:127.0.0.1
+2026-07-09 17:30:37.306 -06:00 [INF] [98c9c952-5213-466a-8cee-7f960fd59cf0] HTTP GET /favicon.ico respondió 200 en 10ms IP:127.0.0.1
+2026-07-09 17:30:46.766 -06:00 [INF] [8b172e2f-c414-4a4d-8102-bc55026b28a2] Inicio Home.Index. Usuario:Anónimo IP:127.0.0.1
+2026-07-09 17:30:46.766 -06:00 [INF] [8b172e2f-c414-4a4d-8102-bc55026b28a2] Fin Home.Index. Duración:0ms
+2026-07-09 17:30:46.769 -06:00 [INF] [8b172e2f-c414-4a4d-8102-bc55026b28a2] HTTP GET / respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 17:30:46.918 -06:00 [INF] [b93a7bf7-b373-408e-ad5b-0ffb57bde7c7] HTTP GET /js/site.js respondió 200 en 7ms IP:127.0.0.1
+2026-07-09 17:30:46.918 -06:00 [INF] [c7c37fe1-f687-4483-a605-591437456a49] HTTP GET /VulnerableApp.styles.css respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 17:30:46.920 -06:00 [INF] [bb11ec71-37b6-4ae0-a20d-304c161f55ae] HTTP GET /css/site.css respondió 200 en 5ms IP:127.0.0.1
+2026-07-09 17:30:46.925 -06:00 [INF] [1f0af157-6cfa-40ce-9ec2-81c29ecf1bea] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 11ms IP:127.0.0.1
+2026-07-09 17:30:46.983 -06:00 [INF] [bf5a6734-aeb6-4b1e-a54f-ecc8811052bf] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 74ms IP:127.0.0.1
+2026-07-09 17:30:47.035 -06:00 [INF] [0b4a7466-fb9f-45ff-a2cc-d3731daeab96] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 126ms IP:127.0.0.1
+2026-07-09 17:30:48.476 -06:00 [INF] [bdbc2c57-5d03-4991-a17c-6a068628658d] Inicio Home.Index. Usuario:Anónimo IP:127.0.0.1
+2026-07-09 17:30:48.476 -06:00 [INF] [bdbc2c57-5d03-4991-a17c-6a068628658d] Fin Home.Index. Duración:0ms
+2026-07-09 17:30:48.479 -06:00 [INF] [bdbc2c57-5d03-4991-a17c-6a068628658d] HTTP GET / respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 17:30:48.595 -06:00 [INF] [bdaf616c-752d-43b4-9707-545b02331202] HTTP GET /js/site.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:30:48.597 -06:00 [INF] [47875e5f-e1c3-4b17-ac43-e0b97c9ad0a3] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 17:30:48.596 -06:00 [INF] [f802d9e2-2398-40d9-bf15-98a9a04cec70] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 17:30:48.600 -06:00 [INF] [6fdf1070-7b44-47da-8d65-f8ec847e27b5] HTTP GET /VulnerableApp.styles.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 17:30:48.600 -06:00 [INF] [43cef038-38d1-4e06-99d0-c1d8f2892c3c] HTTP GET /css/site.css respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 17:30:48.602 -06:00 [INF] [35c67591-9299-4873-aac4-afe89d120dec] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 5ms IP:127.0.0.1
+2026-07-09 17:30:49.553 -06:00 [INF] [06ddeb7b-e32b-4e5a-bab5-71fbcf4b5d54] Inicio Home.Privacy. Usuario:Anónimo IP:127.0.0.1
+2026-07-09 17:30:49.554 -06:00 [INF] [06ddeb7b-e32b-4e5a-bab5-71fbcf4b5d54] Fin Home.Privacy. Duración:0ms
+2026-07-09 17:30:49.570 -06:00 [INF] [06ddeb7b-e32b-4e5a-bab5-71fbcf4b5d54] HTTP GET /Home/Privacy respondió 200 en 25ms IP:127.0.0.1
+2026-07-09 17:30:49.692 -06:00 [INF] [cd2877a3-7926-4c91-b5a1-a53afe0174ca] HTTP GET /css/site.css respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:30:49.692 -06:00 [INF] [de1cb867-1e23-4c39-b7ed-30abd06004d4] HTTP GET /VulnerableApp.styles.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 17:30:49.694 -06:00 [INF] [93c36e35-dd44-4289-bc26-a5e328b26ef9] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 17:30:49.695 -06:00 [INF] [a64461a2-3776-4866-b45a-426d4df5372b] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 17:30:49.697 -06:00 [INF] [440f69db-7532-413a-a1e3-77fc186cfe90] HTTP GET /js/site.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:30:49.698 -06:00 [INF] [99cd04f9-5bfb-4d79-870a-20769d37dc04] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 17:30:50.537 -06:00 [INF] [4a66953a-6892-47fe-8659-1a43a7f39dc8] Inicio Home.Index. Usuario:Anónimo IP:127.0.0.1
+2026-07-09 17:30:50.538 -06:00 [INF] [4a66953a-6892-47fe-8659-1a43a7f39dc8] Fin Home.Index. Duración:0ms
+2026-07-09 17:30:50.540 -06:00 [INF] [4a66953a-6892-47fe-8659-1a43a7f39dc8] HTTP GET / respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 17:30:50.671 -06:00 [INF] [8a5526e7-f4db-472f-a414-b6a22ee8a69a] HTTP GET /css/site.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 17:30:50.674 -06:00 [INF] [10c7ea04-3d73-40a4-ad38-5571b3fd306e] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 17:30:50.671 -06:00 [INF] [cce15fcc-2905-46c6-9039-6197721ee8c1] HTTP GET /VulnerableApp.styles.css respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:30:50.673 -06:00 [INF] [35729fdd-2532-4e36-9c42-a318345c3772] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 17:30:50.673 -06:00 [INF] [b9cbf1e9-4283-4d52-90ed-e46cc62d57d2] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:30:50.673 -06:00 [INF] [067c32ea-62ba-48f8-8b1e-218245020715] HTTP GET /js/site.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:56:46.343 -06:00 [WRN] [c68b4a43-672d-4697-a9c0-7c6f7e6910b2] Failed to determine the https port for redirect.
+2026-07-09 17:56:46.739 -06:00 [INF] [c68b4a43-672d-4697-a9c0-7c6f7e6910b2] Inicio Auth.Login (GET). IP:127.0.0.1
+2026-07-09 17:56:47.048 -06:00 [INF] [c68b4a43-672d-4697-a9c0-7c6f7e6910b2] HTTP GET /Auth/Login respondió 200 en 723ms IP:127.0.0.1
+2026-07-09 17:56:47.258 -06:00 [INF] [bb34e163-85fd-4c55-9c83-89cd178e4da7] HTTP GET /VulnerableApp.styles.css respondió 200 en 56ms IP:127.0.0.1
+2026-07-09 17:56:47.258 -06:00 [INF] [ec26bf39-9698-4322-aaba-dd195515a8a5] HTTP GET /js/site.js respondió 200 en 41ms IP:127.0.0.1
+2026-07-09 17:56:47.258 -06:00 [INF] [a42b1809-7be6-411d-b677-fff13e51131a] HTTP GET /css/site.css respondió 200 en 55ms IP:127.0.0.1
+2026-07-09 17:56:47.296 -06:00 [INF] [2945df34-1ae5-4b19-a5e5-e4ee027e53be] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 78ms IP:127.0.0.1
+2026-07-09 17:56:47.296 -06:00 [INF] [15386f2c-6490-4b91-9893-a3be7a62f4ae] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 78ms IP:127.0.0.1
+2026-07-09 17:56:47.298 -06:00 [INF] [c2b9f21d-6027-4850-9006-272a53d4d8d7] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 95ms IP:127.0.0.1
+2026-07-09 17:56:56.873 -06:00 [INF] [350d1145-c1e4-4835-802e-cf3279004d76] Inicio Auth.Login (POST). Usuario:admin IP:127.0.0.1
+2026-07-09 17:56:57.808 -06:00 [INF] [350d1145-c1e4-4835-802e-cf3279004d76] Evento de autenticación: login exitoso. Usuario:admin IP:127.0.0.1
+2026-07-09 17:56:57.809 -06:00 [INF] [350d1145-c1e4-4835-802e-cf3279004d76] Fin Auth.Login. Duración:936ms
+2026-07-09 17:56:57.811 -06:00 [INF] [350d1145-c1e4-4835-802e-cf3279004d76] HTTP POST /Auth/Login respondió 302 en 996ms IP:127.0.0.1
+2026-07-09 17:56:57.836 -06:00 [INF] [3fd15d85-a177-41e0-b257-6546eb1deded] Inicio Auth.Dashboard. UserId:1 IP:127.0.0.1
+2026-07-09 17:56:58.048 -06:00 [INF] [3fd15d85-a177-41e0-b257-6546eb1deded] Fin Auth.Dashboard. Usuario:admin Duración:212ms
+2026-07-09 17:56:58.063 -06:00 [INF] [3fd15d85-a177-41e0-b257-6546eb1deded] HTTP GET /Auth/Dashboard respondió 200 en 236ms IP:127.0.0.1
+2026-07-09 17:56:58.256 -06:00 [INF] [437b0f3d-ae4a-4ff4-8d63-866c10515245] HTTP GET /js/site.js respondió 200 en 61ms IP:127.0.0.1
+2026-07-09 17:56:58.258 -06:00 [INF] [8801b71e-ddb1-4d4f-b390-23e0d937913b] HTTP GET /VulnerableApp.styles.css respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:56:58.260 -06:00 [INF] [0098874c-134e-49d6-ab5f-09be5a0f7ff1] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 64ms IP:127.0.0.1
+2026-07-09 17:56:58.260 -06:00 [INF] [57e6aab4-5e7f-4749-961b-a0dc609bd11f] HTTP GET /css/site.css respondió 200 en 62ms IP:127.0.0.1
+2026-07-09 17:56:58.261 -06:00 [INF] [c9edfe40-2018-4427-bf83-3f221cc8aa4f] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 66ms IP:127.0.0.1
+2026-07-09 17:56:58.359 -06:00 [INF] [325e6cd0-f4bc-4f5f-81d0-33d58db4767f] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 163ms IP:127.0.0.1
+2026-07-09 17:57:01.736 -06:00 [INF] [6d773e56-f733-4945-9d02-06fad8e5a7ac] Evento de autenticación: logout. Usuario:admin IP:127.0.0.1
+2026-07-09 17:57:01.738 -06:00 [INF] [6d773e56-f733-4945-9d02-06fad8e5a7ac] HTTP GET /Auth/Logout respondió 302 en 11ms IP:127.0.0.1
+2026-07-09 17:57:01.758 -06:00 [INF] [e0d4c135-65c9-4bc5-99cd-21b3891a4e98] Inicio Home.Index. Usuario:Anónimo IP:127.0.0.1
+2026-07-09 17:57:01.759 -06:00 [INF] [e0d4c135-65c9-4bc5-99cd-21b3891a4e98] Fin Home.Index. Duración:2ms
+2026-07-09 17:57:01.773 -06:00 [INF] [e0d4c135-65c9-4bc5-99cd-21b3891a4e98] HTTP GET / respondió 200 en 24ms IP:127.0.0.1
+2026-07-09 17:57:01.909 -06:00 [INF] [f592dfed-b212-40c6-8c73-5cb0dc778158] HTTP GET /js/site.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:57:01.914 -06:00 [INF] [3a6296e9-6eb3-4da7-af76-4856bcdeb1ce] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 7ms IP:127.0.0.1
+2026-07-09 17:57:01.916 -06:00 [INF] [e2b0896f-2315-4eb3-b959-e26492c33c52] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 9ms IP:127.0.0.1
+2026-07-09 17:57:01.935 -06:00 [INF] [00a8f554-c62e-4aca-9793-05f4e1aeec09] HTTP GET /css/site.css respondió 200 en 7ms IP:127.0.0.1
+2026-07-09 17:57:01.937 -06:00 [INF] [d1014a6e-6848-463f-b8ee-612672e829c3] HTTP GET /VulnerableApp.styles.css respondió 200 en 8ms IP:127.0.0.1
+2026-07-09 17:57:01.940 -06:00 [INF] [285615b4-e32e-4881-bbaf-ec31e88100f9] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 15ms IP:127.0.0.1
+2026-07-09 17:57:04.301 -06:00 [INF] [8df4d2d7-ea74-4789-ad3d-4bc6bf63fafc] Inicio Home.Index. Usuario:Anónimo IP:127.0.0.1
+2026-07-09 17:57:04.302 -06:00 [INF] [8df4d2d7-ea74-4789-ad3d-4bc6bf63fafc] Fin Home.Index. Duración:1ms
+2026-07-09 17:57:04.307 -06:00 [INF] [8df4d2d7-ea74-4789-ad3d-4bc6bf63fafc] HTTP GET / respondió 200 en 9ms IP:127.0.0.1
+2026-07-09 17:57:04.432 -06:00 [INF] [e2486b35-b1e5-4b31-8835-9bb63402cff2] HTTP GET /css/site.css respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:57:04.434 -06:00 [INF] [7403a0fc-4c63-4b22-8720-1b2c8a777e81] HTTP GET /VulnerableApp.styles.css respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:57:04.435 -06:00 [INF] [f9ae0787-2bdd-4cfa-a11a-4849c8120512] HTTP GET /js/site.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:57:04.436 -06:00 [INF] [b093c91c-650d-45a6-b4d4-257ba3e8968c] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 17:57:04.436 -06:00 [INF] [c3d9b00f-ca08-4832-a20a-3fe4e7b85d0b] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 17:57:04.437 -06:00 [INF] [39349475-6181-4bec-8707-a472eb0aaa0d] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 5ms IP:127.0.0.1
+2026-07-09 17:57:07.081 -06:00 [INF] [544239b4-8483-426d-b29e-3c5d7ec8e7f3] Inicio Auth.Login (GET). IP:127.0.0.1
+2026-07-09 17:57:07.091 -06:00 [INF] [544239b4-8483-426d-b29e-3c5d7ec8e7f3] HTTP GET /Auth/Login respondió 200 en 11ms IP:127.0.0.1
+2026-07-09 17:57:19.525 -06:00 [INF] [2c76e74c-17e1-4da9-90b8-b091f0e51a79] Inicio Search.Index. Usuario:Anónimo IP:127.0.0.1 Path:/Search/Index Search:algo
+2026-07-09 17:57:19.578 -06:00 [WRN] [2c76e74c-17e1-4da9-90b8-b091f0e51a79] Search.Index sin resultados. Usuario:Anónimo IP:127.0.0.1 Search:algo
+2026-07-09 17:57:19.578 -06:00 [INF] [2c76e74c-17e1-4da9-90b8-b091f0e51a79] Fin Search.Index. Resultados:0 Duración:53ms
+2026-07-09 17:57:19.600 -06:00 [INF] [2c76e74c-17e1-4da9-90b8-b091f0e51a79] HTTP GET /Search/Index respondió 200 en 99ms IP:127.0.0.1
+2026-07-09 17:57:19.745 -06:00 [INF] [dea1d486-7a77-4622-8b29-93fcb235cfd1] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 5ms IP:127.0.0.1
+2026-07-09 17:57:19.746 -06:00 [INF] [05cb9966-08a6-4572-aebf-a34efae3cdaa] HTTP GET /css/site.css respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:57:19.770 -06:00 [INF] [b5ee4e7a-67ee-4b62-97d0-f0ad39784a22] HTTP GET /js/site.js respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 17:57:19.771 -06:00 [INF] [b9769016-f8f2-4d29-b914-006189fb33f3] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 17:57:19.773 -06:00 [INF] [704229bb-e169-4a6b-a15d-913b4646abce] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 5ms IP:127.0.0.1
+2026-07-09 17:57:19.771 -06:00 [INF] [324f8c57-8d97-4118-bf14-95f5ceac3d4a] HTTP GET /VulnerableApp.styles.css respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:57:21.998 -06:00 [INF] [7eca35f5-e9b4-4dec-95be-a01e575f9cf2] Inicio Search.Index. Usuario:Anónimo IP:127.0.0.1 Path:/Search/Index Search:s
+2026-07-09 17:57:22.013 -06:00 [INF] [7eca35f5-e9b4-4dec-95be-a01e575f9cf2] Fin Search.Index. Resultados:2 Duración:14ms
+2026-07-09 17:57:22.016 -06:00 [INF] [7eca35f5-e9b4-4dec-95be-a01e575f9cf2] HTTP GET /Search/Index respondió 200 en 21ms IP:127.0.0.1
+2026-07-09 17:57:22.187 -06:00 [INF] [c12e8627-ac0f-45a0-873f-d436cd6ccdfd] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 47ms IP:127.0.0.1
+2026-07-09 17:57:22.187 -06:00 [INF] [d5c03dc7-578e-489e-8833-2bbd10cb7776] HTTP GET /css/site.css respondió 200 en 46ms IP:127.0.0.1
+2026-07-09 17:57:22.188 -06:00 [INF] [b853a842-d331-4ead-bc0b-7f641c6b4607] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 47ms IP:127.0.0.1
+2026-07-09 17:57:22.189 -06:00 [INF] [a2402cec-66a5-48fe-923a-527d0b697a00] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 47ms IP:127.0.0.1
+2026-07-09 17:57:22.189 -06:00 [INF] [5db81c0e-fa65-48c8-ab52-3ecac88a727d] HTTP GET /js/site.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:57:22.191 -06:00 [INF] [4384532b-7063-409b-becc-9dd57e5cc454] HTTP GET /VulnerableApp.styles.css respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 17:57:31.573 -06:00 [INF] [dd6145ff-4f5a-43c8-8275-b95aa4e9eab9] Inicio Comment.Index. IP:127.0.0.1
+2026-07-09 17:57:31.577 -06:00 [INF] [dd6145ff-4f5a-43c8-8275-b95aa4e9eab9] Fin Comment.Index. Total:0 Duración:4ms
+2026-07-09 17:57:31.612 -06:00 [INF] [dd6145ff-4f5a-43c8-8275-b95aa4e9eab9] HTTP GET /Comment respondió 200 en 50ms IP:127.0.0.1
+2026-07-09 17:57:31.673 -06:00 [INF] [53a86061-0515-44ac-8459-54e908bc9e55] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 17:57:31.673 -06:00 [INF] [3a745538-6630-4058-836c-1c95c1e08bed] HTTP GET /css/site.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 17:57:31.673 -06:00 [INF] [b5cf6579-755d-451b-a18e-a8346c8770af] HTTP GET /js/site.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:57:31.674 -06:00 [INF] [b5fb4452-808b-45e9-954c-4697cd90a51f] HTTP GET /VulnerableApp.styles.css respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:57:31.675 -06:00 [INF] [04833117-f552-45c5-aa86-cc3868928291] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 17:57:31.675 -06:00 [INF] [e4b54c10-874d-4d5c-9f8b-fad748862265] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 17:57:35.532 -06:00 [INF] [f3854afb-08ab-4898-ab7c-35fd22458bcf] Inicio Comment.AddComment. IP:127.0.0.1 LongitudComentario:4
+2026-07-09 17:57:35.533 -06:00 [INF] [f3854afb-08ab-4898-ab7c-35fd22458bcf] Fin Comment.AddComment. Duración:0ms
+2026-07-09 17:57:35.534 -06:00 [INF] [f3854afb-08ab-4898-ab7c-35fd22458bcf] HTTP POST /Comment/AddComment respondió 302 en 9ms IP:127.0.0.1
+2026-07-09 17:57:35.551 -06:00 [INF] [a99e14df-74f3-4e79-8241-4a793d34d295] Inicio Comment.Index. IP:127.0.0.1
+2026-07-09 17:57:35.551 -06:00 [INF] [a99e14df-74f3-4e79-8241-4a793d34d295] Fin Comment.Index. Total:1 Duración:0ms
+2026-07-09 17:57:35.555 -06:00 [INF] [a99e14df-74f3-4e79-8241-4a793d34d295] HTTP GET /Comment respondió 200 en 5ms IP:127.0.0.1
+2026-07-09 17:57:35.672 -06:00 [INF] [d6953a7e-6cf4-42f3-805c-7eab79ecc30f] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:57:35.672 -06:00 [INF] [449165bf-5f8e-438a-b818-1d738d3d0f81] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:57:35.672 -06:00 [INF] [54be6605-959f-49e5-8da6-f1fe393566f9] HTTP GET /js/site.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:57:35.678 -06:00 [INF] [8e4319e9-67a3-4d8d-bc33-1b7bf6cff1aa] HTTP GET /css/site.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 17:57:35.679 -06:00 [INF] [217d5af3-d84a-4542-bb3f-141421965d90] HTTP GET /VulnerableApp.styles.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 17:57:35.680 -06:00 [INF] [b56555c8-a0bf-4b6c-a85e-43e7f7088ee1] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 17:57:43.026 -06:00 [INF] [32223a61-2569-4bab-8129-7acd029fe6a0] Inicio Api.GetAllUsers. IP:127.0.0.1
+2026-07-09 17:57:43.040 -06:00 [INF] [32223a61-2569-4bab-8129-7acd029fe6a0] Fin Api.GetAllUsers. Total:3 Duración:14ms
+2026-07-09 17:57:43.093 -06:00 [INF] [32223a61-2569-4bab-8129-7acd029fe6a0] HTTP GET /api/users respondió 200 en 73ms IP:127.0.0.1
+2026-07-09 17:57:43.189 -06:00 [INF] [d430ad98-b02f-41bc-8121-fb291b6808f0] HTTP GET /favicon.ico respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 17:57:52.458 -06:00 [INF] [6bd2fe30-5edb-41ee-8f3f-38784023e073] HTTP GET /api/user/%7Bid%7D respondió 400 en 69ms IP:127.0.0.1
+2026-07-09 17:58:34.514 -06:00 [INF] [5dcd086b-3726-4af4-b4a4-5b38cd502bf7] Inicio Auth.Login (POST). Usuario:admin IP:127.0.0.1
+2026-07-09 17:58:34.923 -06:00 [WRN] [5dcd086b-3726-4af4-b4a4-5b38cd502bf7] Evento de autenticación: login fallido. Usuario:admin IP:127.0.0.1
+2026-07-09 17:58:34.931 -06:00 [INF] [5dcd086b-3726-4af4-b4a4-5b38cd502bf7] HTTP POST /Auth/Login respondió 200 en 418ms IP:127.0.0.1
+2026-07-09 17:58:35.097 -06:00 [INF] [f58cfef4-6b63-404a-a48f-a40a78028612] HTTP GET /js/site.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 17:58:35.099 -06:00 [INF] [53a78c3a-6594-4252-9b31-20806af87a8a] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 17:58:35.099 -06:00 [INF] [44d59c3c-c991-4e83-983a-c42f1e4bf40f] HTTP GET /css/site.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 17:58:35.099 -06:00 [INF] [5e16adf0-0999-45c4-b7bd-adf45e314c9d] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 6ms IP:127.0.0.1
+2026-07-09 17:58:35.101 -06:00 [INF] [286c5d5b-18ee-41bd-9bc5-b89c5f06e9d0] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 17:58:35.099 -06:00 [INF] [fe13e5e9-2752-4bac-b548-1a2ae0d1dbbf] HTTP GET /VulnerableApp.styles.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:00:01.260 -06:00 [INF] [deed7cf6-ea25-451a-ade9-8fcce7594a5c] Inicio Api.GetUser. RequestedId:2 CurrentUserId:null IP:127.0.0.1
+2026-07-09 18:00:01.260 -06:00 [WRN] [deed7cf6-ea25-451a-ade9-8fcce7594a5c] Api.GetUser: acceso no autenticado. IP:127.0.0.1
+2026-07-09 18:00:01.273 -06:00 [INF] [deed7cf6-ea25-451a-ade9-8fcce7594a5c] HTTP GET /api/user/2 respondió 401 en 18ms IP:127.0.0.1
+2026-07-09 18:00:07.038 -06:00 [INF] [83cbf9dd-82f0-4b0a-aa33-6150cd91f7b2] Inicio Api.GetUser. RequestedId:1 CurrentUserId:null IP:127.0.0.1
+2026-07-09 18:00:07.039 -06:00 [WRN] [83cbf9dd-82f0-4b0a-aa33-6150cd91f7b2] Api.GetUser: acceso no autenticado. IP:127.0.0.1
+2026-07-09 18:00:07.041 -06:00 [INF] [83cbf9dd-82f0-4b0a-aa33-6150cd91f7b2] HTTP GET /api/user/1 respondió 401 en 3ms IP:127.0.0.1
+2026-07-09 18:00:12.592 -06:00 [INF] [84d6810a-a532-4ec3-96e8-af7d9324227c] Inicio Api.GetUser. RequestedId:999 CurrentUserId:null IP:127.0.0.1
+2026-07-09 18:00:12.592 -06:00 [WRN] [84d6810a-a532-4ec3-96e8-af7d9324227c] Api.GetUser: acceso no autenticado. IP:127.0.0.1
+2026-07-09 18:00:12.593 -06:00 [INF] [84d6810a-a532-4ec3-96e8-af7d9324227c] HTTP GET /api/user/999 respondió 401 en 2ms IP:127.0.0.1
+2026-07-09 18:01:02.978 -06:00 [INF] [307166c9-4f9b-4bda-90d1-4dc7bac42495] Inicio Auth.Login (GET). IP:127.0.0.1
+2026-07-09 18:01:02.981 -06:00 [INF] [307166c9-4f9b-4bda-90d1-4dc7bac42495] HTTP GET /Auth/Login respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 18:01:03.225 -06:00 [INF] [ac57b8da-9a04-48fe-bd3d-b216002208b3] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 12ms IP:127.0.0.1
+2026-07-09 18:01:03.225 -06:00 [INF] [ab6eba5b-8841-4a9e-925c-5bb059f155c1] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 9ms IP:127.0.0.1
+2026-07-09 18:01:03.228 -06:00 [INF] [d8e7801f-250d-4168-92cc-57f6ab2df180] HTTP GET /VulnerableApp.styles.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:01:03.228 -06:00 [INF] [fece8c75-7fa5-447e-a69e-0ccefc4c2dca] HTTP GET /js/site.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 18:01:03.230 -06:00 [INF] [8d4eaa80-1d23-4211-9421-057e34323556] HTTP GET /css/site.css respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 18:01:03.242 -06:00 [INF] [cc9a6ab4-d044-495a-b4fc-ebc0310ea78d] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 11ms IP:127.0.0.1
+2026-07-09 18:01:04.284 -06:00 [INF] [50e63904-b3ea-4ebc-8671-3150f4b749a7] Inicio Auth.Login (POST). Usuario:admin IP:127.0.0.1
+2026-07-09 18:01:04.645 -06:00 [INF] [50e63904-b3ea-4ebc-8671-3150f4b749a7] Evento de autenticación: login exitoso. Usuario:admin IP:127.0.0.1
+2026-07-09 18:01:04.645 -06:00 [INF] [50e63904-b3ea-4ebc-8671-3150f4b749a7] Fin Auth.Login. Duración:360ms
+2026-07-09 18:01:04.645 -06:00 [INF] [50e63904-b3ea-4ebc-8671-3150f4b749a7] HTTP POST /Auth/Login respondió 302 en 364ms IP:127.0.0.1
+2026-07-09 18:01:04.657 -06:00 [INF] [ce3d9512-a487-44c6-83fb-2dbefad9da1e] Inicio Auth.Dashboard. UserId:1 IP:127.0.0.1
+2026-07-09 18:01:04.662 -06:00 [INF] [ce3d9512-a487-44c6-83fb-2dbefad9da1e] Fin Auth.Dashboard. Usuario:admin Duración:5ms
+2026-07-09 18:01:04.665 -06:00 [INF] [ce3d9512-a487-44c6-83fb-2dbefad9da1e] HTTP GET /Auth/Dashboard respondió 200 en 8ms IP:127.0.0.1
+2026-07-09 18:01:04.764 -06:00 [INF] [f7768da6-1fe5-4507-b69f-2d52a49a9ad6] HTTP GET /VulnerableApp.styles.css respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 18:01:04.767 -06:00 [INF] [4e2af61a-71fb-47d4-a708-e86a9372aeb7] HTTP GET /css/site.css respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 18:01:04.766 -06:00 [INF] [60dc0c73-826b-4c55-9ddf-9d92bca7255e] HTTP GET /js/site.js respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 18:01:04.769 -06:00 [INF] [b27bf2f6-b17e-47f8-82b2-e5612384e457] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 5ms IP:127.0.0.1
+2026-07-09 18:01:04.770 -06:00 [INF] [d52ca633-d4af-4886-9f8a-157acf2b3fc2] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 7ms IP:127.0.0.1
+2026-07-09 18:01:04.775 -06:00 [INF] [0c123f41-3433-4074-b675-52c86c851678] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 14ms IP:127.0.0.1
+2026-07-09 18:01:12.989 -06:00 [INF] [a29ce0d5-e02d-44fd-bede-233b9e876e5e] Inicio Api.GetUser. RequestedId:2 CurrentUserId:1 IP:127.0.0.1
+2026-07-09 18:01:12.989 -06:00 [WRN] [a29ce0d5-e02d-44fd-bede-233b9e876e5e] Api.GetUser: intento de acceso a recurso ajeno. CurrentUserId:1 RequestedId:2 IP:127.0.0.1
+2026-07-09 18:01:13.003 -06:00 [ERR] [a29ce0d5-e02d-44fd-bede-233b9e876e5e] Excepción no controlada. Path:/api/user/2 Method:GET IP:127.0.0.1
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultForbidScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ForbidAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationServiceImpl.ForbidAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Mvc.ForbidResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at VulnerableApp.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in /home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Middleware/RequestLoggingMiddleware.cs:line 20
+   at VulnerableApp.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in /home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Middleware/ExceptionMiddleware.cs:line 18
+2026-07-09 18:01:21.579 -06:00 [INF] [98557471-52b0-4a73-b31c-59f62ba37c33] Inicio Api.GetUser. RequestedId:1 CurrentUserId:1 IP:127.0.0.1
+2026-07-09 18:01:21.583 -06:00 [INF] [98557471-52b0-4a73-b31c-59f62ba37c33] Fin Api.GetUser. Duración:3ms
+2026-07-09 18:01:21.595 -06:00 [INF] [98557471-52b0-4a73-b31c-59f62ba37c33] HTTP GET /api/user/1 respondió 200 en 17ms IP:127.0.0.1
+2026-07-09 18:01:27.529 -06:00 [INF] [599cb788-5a4c-4979-8715-555f2ce7399f] Inicio Api.GetUser. RequestedId:9999 CurrentUserId:1 IP:127.0.0.1
+2026-07-09 18:01:27.530 -06:00 [WRN] [599cb788-5a4c-4979-8715-555f2ce7399f] Api.GetUser: intento de acceso a recurso ajeno. CurrentUserId:1 RequestedId:9999 IP:127.0.0.1
+2026-07-09 18:01:27.533 -06:00 [ERR] [599cb788-5a4c-4979-8715-555f2ce7399f] Excepción no controlada. Path:/api/user/9999 Method:GET IP:127.0.0.1
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultForbidScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ForbidAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationServiceImpl.ForbidAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Mvc.ForbidResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at VulnerableApp.Middleware.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in /home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Middleware/RequestLoggingMiddleware.cs:line 20
+   at VulnerableApp.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in /home/renyam/Documentos/7mo Cuatrimestre/Seguridad/VulnerableApp/Middleware/ExceptionMiddleware.cs:line 18
+2026-07-09 18:02:10.205 -06:00 [INF] [518a35a3-bb45-43c7-87c1-b27ca039266f] Evento de autenticación: logout. Usuario:admin IP:127.0.0.1
+2026-07-09 18:02:10.206 -06:00 [INF] [518a35a3-bb45-43c7-87c1-b27ca039266f] HTTP GET /Auth/Logout respondió 302 en 2ms IP:127.0.0.1
+2026-07-09 18:02:10.234 -06:00 [INF] [66ce7b03-089b-475b-89c7-da6d5c142f0d] Inicio Home.Index. Usuario:Anónimo IP:127.0.0.1
+2026-07-09 18:02:10.234 -06:00 [INF] [66ce7b03-089b-475b-89c7-da6d5c142f0d] Fin Home.Index. Duración:0ms
+2026-07-09 18:02:10.235 -06:00 [INF] [66ce7b03-089b-475b-89c7-da6d5c142f0d] HTTP GET / respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 18:02:10.473 -06:00 [INF] [7a4ad889-e023-4cd8-84e6-9d827bdcc73e] HTTP GET /js/site.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 18:02:10.473 -06:00 [INF] [490ced9d-f2d2-4ecf-90d7-483ec29efd34] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 18:02:10.475 -06:00 [INF] [398d1713-2b7a-4b29-b08a-c7e08527dd06] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 5ms IP:127.0.0.1
+2026-07-09 18:02:10.475 -06:00 [INF] [5c804424-edd6-4791-aa23-22f75f549aea] HTTP GET /css/site.css respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 18:02:10.477 -06:00 [INF] [c76f853b-97b3-43ad-b8fa-d0a7e9668b8d] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 18:02:10.486 -06:00 [INF] [5c998bf2-996f-4093-a75b-ebc7ecebf7c6] HTTP GET /VulnerableApp.styles.css respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 18:02:37.359 -06:00 [INF] [d24cbe0a-572f-454f-9d4e-dccfe8b21707] Inicio Auth.Dashboard. UserId:null IP:127.0.0.1
+2026-07-09 18:02:37.359 -06:00 [WRN] [d24cbe0a-572f-454f-9d4e-dccfe8b21707] Acceso no autenticado a Auth.Dashboard. IP:127.0.0.1
+2026-07-09 18:02:37.360 -06:00 [INF] [d24cbe0a-572f-454f-9d4e-dccfe8b21707] HTTP GET /Auth/Dashboard respondió 302 en 2ms IP:127.0.0.1
+2026-07-09 18:02:37.397 -06:00 [INF] [db7963fc-eeda-4c9b-9e7c-a018a1329c09] Inicio Auth.Login (GET). IP:127.0.0.1
+2026-07-09 18:02:37.401 -06:00 [INF] [db7963fc-eeda-4c9b-9e7c-a018a1329c09] HTTP GET /Auth/Login respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 18:02:37.537 -06:00 [INF] [61b607ff-8d9a-4879-9338-36009f4da81f] HTTP GET /js/site.js respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:02:37.538 -06:00 [INF] [d42924fd-a7f5-4f10-93f4-399daf17a7c5] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 18:02:37.540 -06:00 [INF] [817ca3f2-64e3-43cd-aa6a-595eeaef0439] HTTP GET /VulnerableApp.styles.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:02:37.542 -06:00 [INF] [e6316243-a552-4fd0-9ff8-b179dbd24449] HTTP GET /css/site.css respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 18:02:37.543 -06:00 [INF] [7565bb11-0cd4-4b7d-a82c-324c644115c1] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 7ms IP:127.0.0.1
+2026-07-09 18:02:37.544 -06:00 [INF] [75cf65c2-6393-467c-b8f4-8eef745179df] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 18:02:53.315 -06:00 [INF] [7425d41e-d77b-4e77-81b7-12a13acb21ef] HTTP GET //Search/Index respondió 404 en 0ms IP:127.0.0.1
+2026-07-09 18:02:57.369 -06:00 [INF] [d6e41497-650c-42ce-93bf-652803664527] HTTP GET //Search/Index respondió 404 en 0ms IP:127.0.0.1
+2026-07-09 18:03:30.646 -06:00 [INF] [9381eb74-de82-4e5b-b872-46b206bde1da] Evento de autenticación: logout. Usuario:null IP:127.0.0.1
+2026-07-09 18:03:30.647 -06:00 [INF] [9381eb74-de82-4e5b-b872-46b206bde1da] HTTP GET /Auth/Logout respondió 302 en 2ms IP:127.0.0.1
+2026-07-09 18:03:30.748 -06:00 [INF] [e91e69fe-2b47-4196-ab47-82e5dad39c9e] Inicio Home.Index. Usuario:Anónimo IP:127.0.0.1
+2026-07-09 18:03:30.748 -06:00 [INF] [e91e69fe-2b47-4196-ab47-82e5dad39c9e] Fin Home.Index. Duración:0ms
+2026-07-09 18:03:30.750 -06:00 [INF] [e91e69fe-2b47-4196-ab47-82e5dad39c9e] HTTP GET / respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 18:03:31.073 -06:00 [INF] [dc8224ae-7e95-4b1b-9581-108d8509a395] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 18:03:31.073 -06:00 [INF] [f429be9f-9ee4-4539-a8ce-57aa8139ed0c] HTTP GET /js/site.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 18:03:31.077 -06:00 [INF] [710b05cc-8fa7-4b15-9be3-1abde79c754d] HTTP GET /VulnerableApp.styles.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:03:31.074 -06:00 [INF] [1f0eb3a3-8fb4-4554-b80b-86f95e5422f1] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 6ms IP:127.0.0.1
+2026-07-09 18:03:31.081 -06:00 [INF] [3f248a14-10a1-408a-96df-ccc93d714969] HTTP GET /css/site.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:03:31.081 -06:00 [INF] [317619b7-6d08-426d-b41d-3bbfe862d4a5] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 5ms IP:127.0.0.1
+2026-07-09 18:06:18.712 -06:00 [INF] [2f5be160-a6d8-4e42-8f06-41fe97b6cee5] Inicio Auth.Dashboard. UserId:null IP:127.0.0.1
+2026-07-09 18:06:18.712 -06:00 [WRN] [2f5be160-a6d8-4e42-8f06-41fe97b6cee5] Acceso no autenticado a Auth.Dashboard. IP:127.0.0.1
+2026-07-09 18:06:18.713 -06:00 [INF] [2f5be160-a6d8-4e42-8f06-41fe97b6cee5] HTTP GET /Auth/Dashboard respondió 302 en 4ms IP:127.0.0.1
+2026-07-09 18:06:18.782 -06:00 [INF] [4d7b8372-1b19-4744-a1e3-252d8635f193] Inicio Auth.Login (GET). IP:127.0.0.1
+2026-07-09 18:06:18.784 -06:00 [INF] [4d7b8372-1b19-4744-a1e3-252d8635f193] HTTP GET /Auth/Login respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 18:06:19.020 -06:00 [INF] [d714269f-615b-4834-9aad-0fd611d551a3] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 18:06:19.021 -06:00 [INF] [8c661f94-75c3-4299-ac34-493508eecc22] HTTP GET /js/site.js respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:06:19.028 -06:00 [INF] [0e0d96a8-e797-46f8-b0ba-7aebbc74fb8f] HTTP GET /css/site.css respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 18:06:19.032 -06:00 [INF] [0990668c-be48-4c79-b204-e767fefb464b] HTTP GET /VulnerableApp.styles.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:06:19.036 -06:00 [INF] [e62c8aee-0f8c-42b4-a6b6-406db16512ff] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 14ms IP:127.0.0.1
+2026-07-09 18:06:19.037 -06:00 [INF] [2911e322-2bbb-4179-800c-612338a4197a] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 15ms IP:127.0.0.1
+2026-07-09 18:09:54.847 -06:00 [INF] [f8be461b-3ef8-4064-8acd-34de51e8b101] Inicio Search.Index. Usuario:Anónimo IP:127.0.0.1 Path:/Search/Index Search:null
+2026-07-09 18:09:54.847 -06:00 [WRN] [f8be461b-3ef8-4064-8acd-34de51e8b101] Search.Index sin término de búsqueda. Usuario:Anónimo IP:127.0.0.1
+2026-07-09 18:09:54.852 -06:00 [INF] [f8be461b-3ef8-4064-8acd-34de51e8b101] HTTP GET /Search/Index respondió 200 en 9ms IP:127.0.0.1
+2026-07-09 18:09:55.033 -06:00 [INF] [ffda686c-f9e6-4795-b476-ac4ee4ad3185] HTTP GET /js/site.js respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:09:55.034 -06:00 [INF] [5d4be409-c5a3-41c7-8078-923f34a5223e] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 18:09:55.037 -06:00 [INF] [2dfe8924-ef87-4338-81c1-e2de2c5ca965] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 18:09:55.038 -06:00 [INF] [779e33d9-77fd-4a89-bc57-75e30408276b] HTTP GET /VulnerableApp.styles.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:09:55.040 -06:00 [INF] [eeae1e81-5dd0-4e92-ba94-fd9ce18609a0] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 18:09:55.041 -06:00 [INF] [4a843761-206c-4db5-a99b-483505701935] HTTP GET /css/site.css respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 18:10:09.042 -06:00 [INF] [773af032-64f0-431c-ac2b-db67fd9bb1cd] Inicio Search.Index. Usuario:Anónimo IP:127.0.0.1 Path:/Search/Index Search:null
+2026-07-09 18:10:09.043 -06:00 [WRN] [773af032-64f0-431c-ac2b-db67fd9bb1cd] Search.Index sin término de búsqueda. Usuario:Anónimo IP:127.0.0.1
+2026-07-09 18:10:09.045 -06:00 [INF] [773af032-64f0-431c-ac2b-db67fd9bb1cd] HTTP GET /Search/Index respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 18:10:09.185 -06:00 [INF] [45dcf151-edb0-4f7f-b31c-567a61155f52] HTTP GET /js/site.js respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:10:09.186 -06:00 [INF] [3033b904-f136-4906-9aae-452f6ac512cc] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 18:10:09.186 -06:00 [INF] [bd13cdef-b39d-49d6-a95e-73458dacec86] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 18:10:09.188 -06:00 [INF] [57c11df2-4f43-4dd5-af73-5d189b80b2d6] HTTP GET /css/site.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:10:09.189 -06:00 [INF] [81b521e8-df7e-426e-b860-01db87216ccf] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 18:10:09.190 -06:00 [INF] [3f3847db-5e11-461d-81fe-32d07fbbdb7e] HTTP GET /VulnerableApp.styles.css respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 18:10:15.197 -06:00 [INF] [1e502541-ca7d-4ceb-9924-8aa77d43678d] Inicio Comment.Index. IP:127.0.0.1
+2026-07-09 18:10:15.197 -06:00 [INF] [1e502541-ca7d-4ceb-9924-8aa77d43678d] Fin Comment.Index. Total:1 Duración:0ms
+2026-07-09 18:10:15.205 -06:00 [INF] [1e502541-ca7d-4ceb-9924-8aa77d43678d] HTTP GET /Comment respondió 200 en 8ms IP:127.0.0.1
+2026-07-09 18:10:15.370 -06:00 [INF] [be8cb3b4-4d21-4228-a90d-c9295f4c9b1d] HTTP GET /js/site.js respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:10:15.370 -06:00 [INF] [cde9ef3c-ae80-49df-a6c8-a657607a8dcf] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 18:10:15.371 -06:00 [INF] [c68de2c8-cd8b-4643-b653-fb52cf9c988b] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 1ms IP:127.0.0.1
+2026-07-09 18:10:15.373 -06:00 [INF] [872e1906-4134-4a9a-a3ae-7144b5c3ad83] HTTP GET /css/site.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:10:15.376 -06:00 [INF] [215cf1ed-5bea-4362-90a5-75db0b283831] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 18:10:15.383 -06:00 [INF] [da2f4bd7-7910-4b07-b866-477ba4bf0001] HTTP GET /VulnerableApp.styles.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:10:16.690 -06:00 [INF] [878a4c88-f238-4c21-a826-463c4bacaa93] Inicio Comment.AddComment. IP:127.0.0.1 LongitudComentario:0
+2026-07-09 18:10:16.690 -06:00 [WRN] [878a4c88-f238-4c21-a826-463c4bacaa93] Comment.AddComment rechazado: comentario vacío. IP:127.0.0.1
+2026-07-09 18:10:16.691 -06:00 [INF] [878a4c88-f238-4c21-a826-463c4bacaa93] Fin Comment.AddComment. Duración:0ms
+2026-07-09 18:10:16.691 -06:00 [INF] [878a4c88-f238-4c21-a826-463c4bacaa93] HTTP POST /Comment/AddComment respondió 302 en 4ms IP:127.0.0.1
+2026-07-09 18:10:16.716 -06:00 [INF] [32340f90-76e5-4e28-9d79-60c00f8d252f] Inicio Comment.Index. IP:127.0.0.1
+2026-07-09 18:10:16.716 -06:00 [INF] [32340f90-76e5-4e28-9d79-60c00f8d252f] Fin Comment.Index. Total:1 Duración:0ms
+2026-07-09 18:10:16.718 -06:00 [INF] [32340f90-76e5-4e28-9d79-60c00f8d252f] HTTP GET /Comment respondió 200 en 2ms IP:127.0.0.1
+2026-07-09 18:10:16.831 -06:00 [INF] [8731cd18-42c3-4a86-b784-dfdfa5992ad9] HTTP GET /VulnerableApp.styles.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:10:16.833 -06:00 [INF] [783a3fbe-6ab4-4891-b925-cf8ed769bbdc] HTTP GET /css/site.css respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:10:16.835 -06:00 [INF] [2e052992-2bed-4c59-bdb3-6a330e68af98] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css respondió 200 en 4ms IP:127.0.0.1
+2026-07-09 18:10:16.836 -06:00 [INF] [4e7b04c7-1f78-42d7-9373-18d49400722d] HTTP GET /js/site.js respondió 200 en 0ms IP:127.0.0.1
+2026-07-09 18:10:16.836 -06:00 [INF] [c59afd6e-3ad7-4f18-9e5f-11f13da8a419] HTTP GET /lib/jquery/dist/jquery.min.js respondió 200 en 3ms IP:127.0.0.1
+2026-07-09 18:10:16.837 -06:00 [INF] [33646a16-c504-4516-a6d8-12e8b0ed58c2] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js respondió 200 en 3ms IP:127.0.0.1
