@@ -40,8 +40,9 @@ namespace VulnerableApp.Controllers
         }
 
         [HttpPost]
-        public IActionResult AddComment(string comment)
-        {
+
+        [ValidateAntiForgeryToken]
+        public IActionResult AddComment(string comment){
             var stopwatch = Stopwatch.StartNew();
             var ip = HttpContext.Connection.RemoteIpAddress?.ToString();
 

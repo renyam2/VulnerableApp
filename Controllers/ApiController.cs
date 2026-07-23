@@ -71,12 +71,22 @@ namespace VulnerableApp.Controllers
         {
             var stopwatch = Stopwatch.StartNew();
             var ip = HttpContext.Connection.RemoteIpAddress?.ToString();
+            var currentUserId = HttpContext.Session.GetInt32("UserId");
 
-            _logger.LogInformation("Inicio Api.GetAllUsers. IP:{IP}", ip);
+            _logger.LogInformation("Inicio Api.GetAllUsers. CurrentUserId:{CurrentUserId} IP:{IP}", currentUserId, ip);
 
             try
             {
-                var users = _db.Users.ToList();
+                if (!currentUserId.HasValue)
+                {
+                    _logger.LogWarning("Api.GetAllUsers: acceso no autenticado. IP:{IP}", ip);
+                    stopwatch.Stop();
+                    return Unauthorized();
+                }
+
+                var users = _db.Users
+                    .Select(u => new { u.Id, u.Username, u.Email })
+                    .ToList();
 
                 stopwatch.Stop();
                 _logger.LogInformation("Fin Api.GetAllUsers. Total:{Count} Duración:{ElapsedMs}ms",

@@ -1,0 +1,40 @@
+name: Security
+
+on:
+  push:
+    branches: [ secure ]
+  pull_request:
+    branches: [ secure ]
+  workflow_dispatch:
+
+jobs:
+  dast-zap:
+    name: DAST — OWASP ZAP
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Build and run app in background
+        run: |
+          dotnet build VulnerableApp.csproj
+          dotnet run --project . --urls http://localhost:5256 &
+          sleep 10   # Esperar que la app arranque
+
+      - name: ZAP Baseline Scan
+        uses: zaproxy/action-baseline@v0.12.0
+        with:
+          target: 'http://localhost:5256'
+          rules_file_name: '.zap/rules.tsv'
+          cmd_options: '-I'
+
+      - name: Upload ZAP report
+        uses: actions/upload-artifact@v4
+        with:
+          name: zap-baseline-report
+          path: report_html.html
+        if: always()
