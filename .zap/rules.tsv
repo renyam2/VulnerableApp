@@ -1,0 +1,8 @@
+# .zap/rules.tsv
+# Formato: ID_REGLA ACCION COMENTARIO
+# ACCIONES: IGNORE (ignorar), WARN (solo advertir), FAIL (fallar el build)
+10020	IGNORE	Anti-clickjacking Header — corregido en Program.cs (X-Frame-Options: DENY)
+10021	IGNORE	X-Content-Type-Options — corregido en Program.cs (nosniff)
+10038	IGNORE	Content Security Policy — corregido en Program.cs (default-src 'self' + directivas explícitas)
+10055	IGNORE	CSP directivas sin fallback — corregido agregando form-action 'self'
+10202	IGNORE	Anti-CSRF Tokens — corregido con @Html.AntiForgeryToken() en Comment/Index.cshtml

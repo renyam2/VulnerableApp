@@ -1,1 +1,5 @@
 .aider*
+obj/
+bin/
+cookies.txt
+Logs/
