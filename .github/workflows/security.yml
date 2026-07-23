@@ -26,7 +26,7 @@ jobs:
           sleep 10   # Esperar que la app arranque
 
       - name: ZAP Baseline Scan
-        uses: zaproxy/action-baseline@v0.12.0
+        uses: zaproxy/action-baseline@v0.15.0
         with:
           target: 'http://localhost:5256'
           rules_file_name: '.zap/rules.tsv'
